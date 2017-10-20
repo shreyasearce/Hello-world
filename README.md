@@ -1,2 +1,2 @@
 # Hello-world
-Test
+A script to extract emails from gmail inbox using Python
